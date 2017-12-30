@@ -1,0 +1,26 @@
+# Black: TCG-randomGo99
+# BlackCommand: hw2
+# BlackLabel: TCG-randomGo99:1.02
+# BlackVersion: 1.02
+# Date: December 26, 2017 1:59:07 AM PST
+# Host: parallels-vm (Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz)
+# Komi: 7
+# Referee: -
+# Size: 9
+# White: TCG-randomGo99
+# WhiteCommand: hw2_2
+# WhiteLabel: TCG-randomGo99:1.02
+# WhiteVersion: 1.02
+# Xml: 0
+#
+#GAME	RES_B	RES_W	RES_R	ALT	DUP	LEN	TIME_B	TIME_W	CPU_B	CPU_W	ERR	ERR_MSG
+0	0	0	?	0	-	89	276.5	254.8	0	0	0	
+1	B+50	B+50	?	1	-	120	289.7	339.3	0	0	0	
+2	W+6	W+6	?	0	-	102	277.1	281.7	0	0	0	
+3	B+6	B+6	?	1	-	116	299	312.8	0	0	0	
+4	B+22	B+22	?	0	-	114	288.6	337.1	0	0	0	
+5	B+88	B+88	?	1	-	132	304.7	432.3	0	0	0	
+6	B+50	B+50	?	0	-	107	246.5	375.4	0	0	0	
+7	B+36	B+36	?	1	-	109	188.2	286	0	0	0	
+8	W+34	W+34	?	0	-	141	371.2	333.9	0	0	0	
+9	B+20	B+20	?	1	-	90	243	278.4	0	0	0	

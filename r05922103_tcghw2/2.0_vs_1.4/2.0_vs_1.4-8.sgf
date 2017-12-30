@@ -1,0 +1,25 @@
+(;FF[4]CA[UTF-8]AP[gogui-twogtp:1.4.9]SZ[9]
+KM[7]PB[TCG-randomGo99:1.02]PW[TCG-randomGo99:1.02]DT[2017-12-26]RE[W+34]
+C[Black command: hw2
+White command: hw2_2
+Black version: 1.02
+White version: 1.02
+Result[Black\]: W+34
+Result[White\]: W+34
+Host: parallels-vm (Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz)
+Date: December 26, 2017 3:30:47 AM PST]
+;B[fe];W[bf];B[gc];W[df];B[de];W[gf];B[cd];W[eg];B[db];W[dc]
+;B[bh];W[di];B[ce];W[cf];B[ch];W[hg];B[ge];W[fh];B[ee];W[gg]
+;B[ii];W[ad];B[ef];W[bc];B[fg];W[ff];B[ha];W[dg];B[ec];W[fa]
+;B[be];W[af];B[hb];W[he];B[hd];W[ae];B[hf];W[if];B[ac];W[ab]
+;B[ih];W[gi];B[bi];W[ga];B[ie];W[id];B[cb];W[ed];B[ea];W[ag]
+;B[ig];W[bd];B[ba];W[eb];B[fb];W[fd];B[gb];W[ai];B[ah];W[cc]
+;B[ci];W[aa];B[bb];W[gd];B[ac];W[ab];B[fa];W[hc];B[ca];W[dd]
+;B[de];W[hi];B[ei];W[hh];B[dh];W[cd];B[ee];W[aa];B[ac];W[ab]
+;B[ia];W[ib];B[ic];W[aa];B[ac];W[ab];B[hd];W[ce];B[ie];W[eh]
+;B[ih];W[id];B[ii];W[hc];B[fe];W[ib];B[fi];W[ig];B[ic];W[di]
+;B[hd];W[cg];B[ie];W[ih];B[ei];W[id];B[fi];W[hc];B[ib];W[di]
+;B[hd];W[bg];B[ie];W[ai];B[bh];W[id];B[ch];W[hc];B[dh];W[ei]
+;B[hd];W[ci];B[ie];W[ge];B[id];W[ef];B[ee];W[de];B[aa];W[fe]
+;B[ac];W[ah];B[fc];W[ab];B[];W[bi];B[ac];W[ch];B[ab];W[]
+;B[])
